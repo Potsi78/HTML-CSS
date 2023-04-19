@@ -1,0 +1,11 @@
+h1 {color: blue; text-align: center;}
+p {font-family: 'Courier New', Courier, monospace}
+
+.ingressi {font-size: 1.2em;} 
+
+.korostus {
+
+    font-style: italic;
+    color: red;
+    font-variant: small-caps;
+}
